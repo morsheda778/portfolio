@@ -22,7 +22,7 @@ If you’re looking for someone who can combine **analytical thinking** with **v
 
 ## 📫 Contact Me
 - 📧 **Email:** morshedaakter778@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/morshedaakter778]([https://linkedin.com/in/morshedaakter778](https://www.linkedin.com/in/morsheda-akter-66b310360/))  
+- 💼 **LinkedIn:** https://github.com/morsheda778/portfolio/edit/main/README.md
 - 💻 **GitHub:** [github.com/morsheda778](https://github.com/morsheda778)
 
 ⭐ *“Data doesn’t just speak — it tells the story of your business.”*
